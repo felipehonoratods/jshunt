@@ -13,7 +13,7 @@ In the terminal use the command `cd node-api` / `cd huntweb` / `cd huntapp`, ins
 
 ### 💻 Web
 
-![Layout Project]()
+![Layout Project](https://github.com/felipehonoratods/jshunt/blob/master/gifs/huntweb.gif)
 
 ### 📱 Mobile
 
