@@ -1,13 +1,19 @@
-<h1 align="center">JSHunt</h1>
+<h1 align="center">📂 JSHunt 📂</h1>
 
 ## 💻 Project
 
-Application of the most used technologies in JS
+Application based on the Product Hunt website with the most used technologies in JS.
 
 ### Running project
 
-In the terminal use the command `cd node-api` / `cd huntweb` / `cd huntapp`, install the dependencies `npm install` and start the App `npm run dev` / `npm start` / `react-native run-android` or `react-native run-ios`.
+#### Front-end
+To start the application frontend go to the terminal and use the command `cd huntweb` to enter the folder, then install the dependencies with `npm install`, now and start with `npm start`.
 
+#### Back-end
+To start the backend, you need to have MongoDB installed on your machine, right after that use `cd node-api` in the terminal and then `npm install`, after all use `npm run dev`.
+
+#### Mobile
+Now when starting the application on mobile, use EXPO to do all the procedures, go to the terminal and access the `cd huntapp` and then the `npm install`, to finish use the `expo start`.
 
 ## 🎨 Layout
 
@@ -17,7 +23,7 @@ In the terminal use the command `cd node-api` / `cd huntweb` / `cd huntapp`, ins
 
 ### 📱 Mobile
 
-![Layout Project]()
+![Layout Project](https://github.com/felipehonoratods/jshunt/blob/master/gifs/huntapp.gif)
 
 ## 📚 Technologies
 
